@@ -1,4 +1,4 @@
-Presentation for UCLA Student Media Training Session--Winter 2016
+Presentation for Migrahack Colorado 2016
 
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.svg?branch=master)](https://travis-ci.org/hakimel/reveal.js)
 
